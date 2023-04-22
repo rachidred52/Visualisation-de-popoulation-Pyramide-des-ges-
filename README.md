@@ -11,7 +11,7 @@ L'application contient 6 onglets principaux:
 5- **Comparaison de structure** \
 6- **Visualisation globale**
 
-# Informations de chacun des onglets
+# Description des onglets
 
 ## 1:  Présentation de l'application
 
